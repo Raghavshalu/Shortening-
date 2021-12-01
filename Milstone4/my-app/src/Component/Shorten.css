@@ -1,0 +1,35 @@
+.link_shortener{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    margin: 88px 25px 25px 25px;
+    padding: 25px;
+    background-color:#130c13;
+    border-radius: 10px;
+    background-image: url("../Images/bg-shorten-mobile.svg");
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-size: auto 130px;
+    height: fit-content;
+    justify-content: space-between;
+    z-index: 2;
+  }
+  .input {
+    height: 50px;
+    padding-left: 25px;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 16px;
+    color: grey;
+  }
+  .button1{
+    border-radius: 10px;
+    width: 190px;
+    height: 65px;
+    background-color:#37b8eb;
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+    cursor: pointer;
+  }

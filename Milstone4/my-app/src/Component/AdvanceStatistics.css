@@ -1,0 +1,120 @@
+.advanced-statistics {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 85px;
+    background-color: rgb(216, 211, 211);
+  }
+  .h2{
+    text-align: center;
+    color: var(--very-dark-blue);
+  }
+  .p{
+    font-size: 16px;
+    color: grey;
+    padding: 0 25px;
+  }
+  .box-group{
+    display: flex;
+    align-self: center;
+    flex-direction: column;
+    margin-top: 95px;
+    margin-bottom: 88px;
+    border-radius: 10px;
+  }
+  .line {
+    align-self: center;
+    width: 7px;
+    height: 50px;
+    background-color: var(--cyan);
+    margin-bottom: 45px;
+  }
+  
+  .box{
+    background-color: white;
+    width: 325px;
+    height: fit-content;
+    border-radius: 10px;
+  }
+  #brand{
+      background-image: url('../Images/icon-brand-recognition.svg');
+  }
+  #records{
+      background-image: url('../Images/icon-detailed-records.svg');
+  }
+  #customize{
+      background-image: url('../Images/icon-fully-customizable.svg');
+  }
+  .h2,
+.h3 {
+  color: black;
+}
+.box-group {
+    display: flex;
+    align-self: center;
+    flex-direction: row;
+    margin-top: 105px;
+    margin-bottom: 120px;
+    min-width: 1105px;
+}
+.subhead {
+    font-size: 18px;
+    color: var(--grayish-violet);
+    width: 535px;
+    margin: 0 auto;
+  }
+
+  .line {
+    align-self: center;
+    width: 30px;
+    height: 7px;
+    background-color: rgb(33, 201, 201);
+    margin-bottom: 45px;
+  }
+
+  .box {
+    background-color: white;
+    width: 350px;
+    height: 268px;
+    border-radius: 10px;
+  }
+
+  .box-circle {
+    position: relative;
+    top: -45px;
+    left: -95px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    background-color: rgb(14, 14, 32);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 45px 45px;
+  }
+
+  h3 {
+    position: relative;
+    top: -25px;
+    text-align: left;
+    padding: 0 35px 25px 35px;
+  }
+  .p {
+    position: relative;
+    top: -25px;
+    text-align: left;
+    padding: 0 35px 35px 35px;
+  }
+
+  #box2 {
+    margin-top: 45px;
+  }
+
+  #box3 {
+    margin-top: 90px;
+  }
+  
