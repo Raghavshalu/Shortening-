@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Shortening-/static/css/main.d1e96530.chunk.css",
+    "main.js": "/Shortening-/static/js/main.e9dea751.chunk.js",
+    "main.js.map": "/Shortening-/static/js/main.e9dea751.chunk.js.map",
+    "runtime-main.js": "/Shortening-/static/js/runtime-main.d593ce6c.js",
+    "runtime-main.js.map": "/Shortening-/static/js/runtime-main.d593ce6c.js.map",
+    "static/js/2.9ffc671d.chunk.js": "/Shortening-/static/js/2.9ffc671d.chunk.js",
+    "static/js/2.9ffc671d.chunk.js.map": "/Shortening-/static/js/2.9ffc671d.chunk.js.map",
+    "static/js/3.ac0c12bd.chunk.js": "/Shortening-/static/js/3.ac0c12bd.chunk.js",
+    "static/js/3.ac0c12bd.chunk.js.map": "/Shortening-/static/js/3.ac0c12bd.chunk.js.map",
+    "index.html": "/Shortening-/index.html",
+    "static/css/main.d1e96530.chunk.css.map": "/Shortening-/static/css/main.d1e96530.chunk.css.map",
+    "static/js/2.9ffc671d.chunk.js.LICENSE.txt": "/Shortening-/static/js/2.9ffc671d.chunk.js.LICENSE.txt",
+    "static/media/Boost.css": "/Shortening-/static/media/bg-boost-mobile.4b04bd89.svg",
+    "static/media/Shorten.css": "/Shortening-/static/media/bg-shorten-mobile.41c34b33.svg",
+    "static/media/AdvanceStatistics.css": "/Shortening-/static/media/icon-fully-customizable.a1532a74.svg",
+    "static/media/More_then.css": "/Shortening-/static/media/illustration-working.c9b5ef54.svg",
+    "static/media/Footer.css": "/Shortening-/static/media/logo_footer.d37cd7a3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d593ce6c.js",
+    "static/js/2.9ffc671d.chunk.js",
+    "static/css/main.d1e96530.chunk.css",
+    "static/js/main.e9dea751.chunk.js"
+  ]
+}
